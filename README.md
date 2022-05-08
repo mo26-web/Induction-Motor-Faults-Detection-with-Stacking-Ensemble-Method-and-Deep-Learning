@@ -65,7 +65,6 @@ The outputs from the base models used as input to the meta-model may be real val
 
 ```bash
 
-
                precision    recall  f1-score   support
 
        normal       0.99      0.99      0.99     24692
@@ -83,3 +82,26 @@ imbalance 35g       0.98      0.98      0.98     22544
 ```
 
 ### Framework 2 (On Test Data)
+
+
+<p align="center">
+<a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/conf4.png?raw=true"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/conf4.png?raw=true" align="center"></a>
+</p>
+
+```bash
+
+               precision    recall  f1-score   support
+
+       normal       0.99      1.00      0.99     24725
+ imbalance 6g       1.00      1.00      1.00     24553
+imbalance 10g       1.00      1.00      1.00     23819
+imbalance 15g       0.96      0.96      0.96     24007
+imbalance 20g       0.96      0.96      0.96     24472
+imbalance 25g       0.96      0.96      0.96     23308
+imbalance 30g       0.98      0.98      0.98     23576
+imbalance 35g       0.98      0.98      0.98     22537
+
+     accuracy                           0.98    190997
+    macro avg       0.98      0.98      0.98    190997
+ weighted avg       0.98      0.98      0.98    190997
+```
