@@ -33,14 +33,9 @@ The meta-model is trained on the predictions made by base models on out-of-sampl
 
 The outputs from the base models used as input to the meta-model may be real value in the case of regression, and probability values, probability like values, or class labels in the case of classification.
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+  * Bullet list
+   * Nested bullet
+        * Sub-nested bullet etc
+    * Bullet list item 2
 
--OR-
 
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
