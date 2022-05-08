@@ -50,10 +50,11 @@ The outputs from the base models used as input to the meta-model may be real val
 <p align="center">
 <a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/framework2.JPG"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/framework2.JPG" align="center"></a>
 </p>
-##### Deep neural network:
 
-
-
+##### Deep Neural Network Architecture:
+<p align="center">
+<a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/model.png"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/model.png" align="center"></a>
+</p>
 
 ## Results 
 ### Framework 1 (On Test Data)
