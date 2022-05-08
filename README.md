@@ -5,6 +5,7 @@ This database is composed of 1951 multivariate time-series acquired by sensors o
 <p align="center">
 <a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/motor.jpg"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/motor.jpg" align="center"></a>
 </p>
+
 ## Visualization of Some Features
 <p align="center">
 <a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/results1.png"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/results1.png" align="center"></a>
