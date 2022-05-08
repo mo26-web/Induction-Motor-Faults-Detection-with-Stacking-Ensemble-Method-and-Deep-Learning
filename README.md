@@ -14,3 +14,10 @@ This database is composed of 1951 multivariate time-series acquired by sensors o
 <p align="center">
 <a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/results2.png"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/results2.png" align="center"></a>
 </p>
+
+## Data Pre process
+### FFT Transform (convolution)
+FFT convolution uses the principle that multiplication in the frequency domain corresponds to convolution in the time domain. The input signal is transformed into the frequency domain using the DFT, multiplied by the frequency response of the filter, and then transformed back into the time domain using the Inverse DFT.
+<p align="center">
+<a href="https://docs.scipy.org/doc/scipy/_images/scipy-signal-fftconvolve-1_00.png"><img src="https://docs.scipy.org/doc/scipy/_images/scipy-signal-fftconvolve-1_00.png" align="center"></a>
+</p>
