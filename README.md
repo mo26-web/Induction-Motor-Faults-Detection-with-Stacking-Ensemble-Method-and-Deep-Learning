@@ -23,6 +23,10 @@ FFT convolution uses the principle that multiplication in the frequency domain c
 <a href="https://docs.scipy.org/doc/scipy/_images/scipy-signal-fftconvolve-1_00.png"><img src="https://docs.scipy.org/doc/scipy/_images/scipy-signal-fftconvolve-1_00.png" align="center"></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/fft1.png"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/fft1.png" align="center"></a>
+</p>
+
 ## Stacking Ensemble Method
 Stacking or Stacked Generalization is an ensemble machine learning algorithm. It uses a meta-learning algorithm to learn how to best combine the predictions from two or more base machine learning algorithms.The benefit of stacking is that it can harness the capabilities of a range of well-performing models on a classification or regression task and make predictions that have better performance than any single model in the ensemble.
 The architecture of a stacking model involves two or more base models, often referred to as level-0 models, and a meta-model that combines the predictions of the base models, referred to as a level-1 model.
