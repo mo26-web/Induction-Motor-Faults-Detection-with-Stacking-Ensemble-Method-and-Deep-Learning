@@ -34,4 +34,6 @@ The meta-model is trained on the predictions made by base models on out-of-sampl
 
 The outputs from the base models used as input to the meta-model may be real value in the case of regression, and probability values, probability like values, or class labels in the case of classification.
 
-
+<p align="center">
+<a href="https://editor.analyticsvidhya.com/uploads/39725Stacking.png"><img src="https://editor.analyticsvidhya.com/uploads/39725Stacking.png" align="center"></a>
+</p>
