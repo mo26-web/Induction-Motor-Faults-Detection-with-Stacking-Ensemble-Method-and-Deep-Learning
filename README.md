@@ -29,7 +29,7 @@ The architecture of a stacking model involves two or more base models, often ref
 
 * Level-0 Models (Base-Models): Models fit on the training data and whose predictions are compiled.
 * Level-1 Model (Meta-Model): Model that learns how to best combine the predictions of the base models.
-* 
+
 The meta-model is trained on the predictions made by base models on out-of-sample data. That is, data not used to train the base models is fed to the base models, predictions are made, and these predictions, along with the expected outputs, provide the input and output pairs of the training dataset used to fit the meta-model.
 
 The outputs from the base models used as input to the meta-model may be real value in the case of regression, and probability values, probability like values, or class labels in the case of classification.
