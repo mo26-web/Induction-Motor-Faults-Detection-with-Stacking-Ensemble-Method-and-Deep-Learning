@@ -37,3 +37,16 @@ The outputs from the base models used as input to the meta-model may be real val
 <p align="center">
 <a href="https://editor.analyticsvidhya.com/uploads/39725Stacking.png"><img src="https://editor.analyticsvidhya.com/uploads/39725Stacking.png" align="center"></a>
 </p>
+
+### Our Proposed Frameworks
+#### Framework 1
+
+<p align="center">
+<a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/framework1.JPG"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/framework1.JPG" align="center"></a>
+</p>
+
+#### Framework 2
+
+<p align="center">
+<a href="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/framework2.JPG"><img src="https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning/blob/main/image/framework2.JPG" align="center"></a>
+</p>
